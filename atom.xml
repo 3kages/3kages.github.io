@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[3kages]]></title>
+  <link href="http://3kages.github.io/atom.xml" rel="self"/>
+  <link href="http://3kages.github.io/"/>
+  <updated>2013-07-05T15:41:28+07:00</updated>
+  <id>http://3kages.github.io/</id>
+  <author>
+    <name><![CDATA[3kages]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

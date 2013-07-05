@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://3kages.github.io/sitemap.xml 
