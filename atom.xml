@@ -4,7 +4,7 @@
   <title><![CDATA[3kages]]></title>
   <link href="http://3kages.github.io/atom.xml" rel="self"/>
   <link href="http://3kages.github.io/"/>
-  <updated>2013-07-12T11:09:46+07:00</updated>
+  <updated>2013-07-12T15:18:04+07:00</updated>
   <id>http://3kages.github.io/</id>
   <author>
     <name><![CDATA[3kages]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[iOS readme]]></title>
-    <link href="http://3kages.github.io/blog/2013/07/05/ios-readme/"/>
-    <updated>2013-07-05T16:16:00+07:00</updated>
-    <id>http://3kages.github.io/blog/2013/07/05/ios-readme</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
